@@ -1,4 +1,4 @@
-module github.com/edjumacator/chi-prometheus/v5
+module github.com/ISim/chi-prometheus/v5
 
 go 1.21
 
